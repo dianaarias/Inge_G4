@@ -1,0 +1,10 @@
+c:\users\b60686\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\bin\Debug\Manual_ASP_NET_DB.dacpac
+c:\users\b60686\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\obj\Debug\Manual_ASP_NET_DB.sqlprojAssemblyReference.cache
+c:\users\b60686\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\obj\Debug\Manual_ASP_NET_DB.dll
+c:\users\b60686\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\obj\Debug\Manual_ASP_NET_DB.pdb
+c:\users\b60686\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\bin\Debug\Manual_ASP_NET_DB.dll
+c:\users\b60686\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\bin\Debug\Manual_ASP_NET_DB.pdb
+c:\users\b60686\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\obj\Debug\Model.xml
+c:\users\b60686\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\obj\Debug\refactor.xml
+c:\users\b60686\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\obj\Debug\postdeploy.sql
+c:\users\b60686\source\repos\Manual_ASP_NET_DB\Manual_ASP_NET_DB\obj\Debug\predeploy.sql

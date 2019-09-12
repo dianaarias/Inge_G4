@@ -1,0 +1,30 @@
+﻿@model Manual_ASP_NET_WEB.ViewModels.InformacionGeneralViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<br />
+<h2>Información general del sistema</h2>
+<br />
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Cantidad Médicos</th>
+            <th scope="col">Cantidad Pacientes</th>
+            <th scope="col">Cantidad Consultas</th>
+            <th scope="col">Sobrepeso</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+
+            <td>@Model.CantidadMedicos</td>
+            <td>@Model.CantidadPacientes</td>
+            <td>@Model.CantidadConsultas</td>
+            <td>@Model.CantidadMayorSesenta</td>
+        </tr>
+
+    </tbody>
+</table>
